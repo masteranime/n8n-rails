@@ -51,6 +51,6 @@
     "n8n-workflow": "*",
     "prettier": "^3.5.3",
     "rimraf": "^5.0.5",
-    "typescript": "^5.8.2"
+    "typescript": "^6.0.3"
   }
 }
